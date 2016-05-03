@@ -1,0 +1,7 @@
+getting data by year as completed by data provider
+
+Read data into R
+
+calculate gdp from pop an dper capita gdp
+
+asve only country, year, lifeexp into a new .csv file
